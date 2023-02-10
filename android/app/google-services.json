@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1074244790533",
+    "firebase_url": "https://sofkaspacestation-33b97-default-rtdb.firebaseio.com",
+    "project_id": "sofkaspacestation-33b97",
+    "storage_bucket": "sofkaspacestation-33b97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074244790533:android:0f5509ee62c2655fa16f6c",
+        "android_client_info": {
+          "package_name": "com.sofka_space_station"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074244790533-b33tlc176osnh8k4r7vumrh9oc25ustt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sofka_space_station",
+            "certificate_hash": "5c1cd71377242e541db03c15865e47963010cfdf"
+          }
+        },
+        {
+          "client_id": "1074244790533-451n0vk5tf5hbp1gp5195nj01d27k501.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUENIh71gE7_M48Fx7N1gviZ4NBrsLOb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074244790533-451n0vk5tf5hbp1gp5195nj01d27k501.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
